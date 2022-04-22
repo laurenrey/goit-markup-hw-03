@@ -165,15 +165,18 @@ img {
 .hero-section {
   background-color: var(--color-bg-dark);
   text-align: center;
+  padding: 200px 0;
+  height: 600px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .hero {
   width: 696px;
-
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 30px;
-  padding-top: 200px;
+  /* padding-top: 200px; */
 
   color: var(--color-light);
   font-weight: 900;
@@ -185,7 +188,7 @@ img {
 }
 
 .main-button {
-  padding-bottom: 200px;
+  /* padding-bottom: 200px; */
   border-radius: 4px;
   padding: 10px 32px;
   min-width: 200px;
@@ -202,9 +205,9 @@ img {
   cursor: pointer;
 }
 
-.main-btn {
+/* .main-btn {
   padding-bottom: 200px;
-}
+} */
 
 .main-button:hover,
 .main-button:focus {
