@@ -62,7 +62,6 @@ img {
 
 .logo {
   width: 145px;
-  margin-right: 93px;
   display: block;
   text-decoration: none;
   font-family: Raleway, sans-serif;
@@ -78,6 +77,9 @@ img {
 
 .studio-black {
   color: #000000;
+}
+.logo-header {
+  margin-right: 93px;
 }
 
 /* --nav--*/
@@ -177,7 +179,6 @@ img {
   margin-left: auto;
   margin-bottom: 30px;
 
-
   color: var(--color-light);
   font-weight: 900;
   font-size: 44px;
@@ -203,7 +204,6 @@ img {
   letter-spacing: 0.06em;
   cursor: pointer;
 }
-
 
 .main-button:hover,
 .main-button:focus {
@@ -234,10 +234,6 @@ img {
 .advantages,
 .activities {
   background-color: var(--color-light);
-}
-
-.advantages-list {
-  margin-bottom: 94px;
 }
 
 .item-content {
@@ -355,15 +351,6 @@ img {
 .section-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-}
-
-.logo {
-  width: 145px;
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
 }
 
 .studio-white {
